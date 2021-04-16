@@ -1,0 +1,17 @@
+Set wshshell = wscript.CreateObject("WScript.Shell") 
+Wshshell.run "TextEdit" 
+wscript.sleep 100
+wshshell.sendkeys "T"
+wshshell.sendkeys "H"
+wshshell.sendkeys "I"
+wshshell.sendkeys "S"
+wshshell.sendkeys " "
+wshshell.sendkeys "I"
+wshshell.sendkeys "S"
+wshshell.sendkeys " "
+wshshell.sendkeys "D"
+wshshell.sendkeys "E"
+wshshell.sendkeys "D"
+wshshell.sendkeys "S"
+wshshell.sendkeys "E"
+wshshell.sendkeys "C"
