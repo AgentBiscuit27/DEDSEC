@@ -22,3 +22,5 @@ To run this:
 To stop in the middle of the process, do ctrl + c.
 
 > Note: If you are on Linux you could use this but I will make a more practical version for Linux users.
+
+> If you are un-comfortable with doing `python3 DedSecMacOs.py` in terminal, then soon, I will have made a .jar version which you can jsut double-click to run.
