@@ -19,3 +19,5 @@ To run this:
 3. Watch it type!
 
 > Note: Version 3 is coming out very soon. WARNING: It is a virus, but it doesn't affect any files or anything. __TRUST ME__ It will not, I repeat, __WILL NOT__ harm your computer.
+
+> If you are a Mac or Linux user, I am making Mac/Linux compatible versions as well.
